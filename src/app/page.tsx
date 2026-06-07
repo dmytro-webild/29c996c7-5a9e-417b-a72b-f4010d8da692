@@ -51,8 +51,8 @@ export default function LandingPage() {
       <HeroBillboardGallery
       background={{
         variant: "radial-gradient"}}
-      title="Your Style, Reimagined. Discover Sustainable Fashion."
-      description="Dive into our curated collection of pre-loved treasures. Unique finds, affordable prices, and a greener planet—all in one place. Express yourself, effortlessly."
+      title="Tampil Keren Tanpa Menguras Kantong. Temukan Pakaian Thrift Terbaikmu!"
+      description="Selami koleksi pilihan barang pre-loved kami. Temukan item unik, harga terjangkau, dan bantu wujudkan planet yang lebih hijau—semua ada di satu tempat. Ekspresikan dirimu, dengan mudah."
       buttons={[
         {
           text: "Shop Now",          href: "#products"},
