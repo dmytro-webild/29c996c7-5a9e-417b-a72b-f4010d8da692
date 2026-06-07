@@ -42,7 +42,7 @@ export default function LandingPage() {
       ]}
       brandName="Thrift Haven"
       button={{
-        text: "Shop Now",        href: "#products"}}
+        text: "Hubungi WhatsApp",        href: "https://wa.me/62895328176185"}}
       animateOnLoad={true}
     />
   </div>
@@ -55,7 +55,7 @@ export default function LandingPage() {
       description="Selami koleksi pilihan barang pre-loved kami. Temukan item unik, harga terjangkau, dan bantu wujudkan planet yang lebih hijau—semua ada di satu tempat. Ekspresikan dirimu, dengan mudah."
       buttons={[
         {
-          text: "Shop Now",          href: "#products"},
+          text: "Hubungi WhatsApp",          href: "https://wa.me/62895328176185"},
       ]}
       mediaItems={[
         {
